@@ -1,0 +1,6 @@
+E:\C\Linq\LinqApp\bin\Debug\LinqApp.exe.config
+E:\C\Linq\LinqApp\bin\Debug\LinqApp.exe
+E:\C\Linq\LinqApp\bin\Debug\LinqApp.pdb
+E:\C\Linq\LinqApp\obj\Debug\LinqApp.csprojAssemblyReference.cache
+E:\C\Linq\LinqApp\obj\Debug\LinqApp.exe
+E:\C\Linq\LinqApp\obj\Debug\LinqApp.pdb
